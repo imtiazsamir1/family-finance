@@ -1,3 +1,17 @@
+.income-background-color {
+  background-color: rgba(128, 128, 128, 0.089);
+}
 .form-control {
   width: 40%;
+}
+.persent-box {
+  width: 15%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.input-field-center {
+  margin-left: 30%;
+}
+.space-inputbox {
+  margin-right: 8px;
 }

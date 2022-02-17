@@ -4,6 +4,7 @@
 .form-control {
   width: 40%;
 }
+
 .persent-box {
   width: 15%;
   padding-left: 5%;
@@ -12,6 +13,10 @@
 .input-field-center {
   margin-left: 30%;
 }
+
 .space-inputbox {
   margin-right: 8px;
+}
+.space {
+  margin-left: 5%;
 }
